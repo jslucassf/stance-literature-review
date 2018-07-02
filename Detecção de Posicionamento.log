@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.6.17)  1 JUL 2018 01:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.6.17)  2 JUL 2018 00:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1167,14 +1167,14 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 60.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 60.
 Package rerunfilecheck Info: File `"Detecção de Posicionamento".out' has not 
 changed.
-(rerunfilecheck)             Checksum: BF2F7FC70C993498511D0401A0AA64BA;2273.
+(rerunfilecheck)             Checksum: DC9FCE8A8394EBC4CBAFDBAE90A9AD0F;2268.
  ) 
 Here is how much of TeX's memory you used:
- 17971 strings out of 492649
- 269098 string characters out of 6135778
+ 17977 strings out of 492649
+ 269242 string characters out of 6135778
  383771 words of memory out of 5000000
  21180 multiletter control sequences out of 15000+600000
- 175739 words of font info for 257 fonts, out of 8000000 for 9000
+ 176285 words of font info for 261 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  60i,11n,94p,885b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/share/
@@ -1186,7 +1186,7 @@ ibertine/lbtn_76gpa5.enc}{/usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_
 are/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texmf
 -dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/share/texmf-dist/fo
 nts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on "Detecção de Posicionamento.pdf" (2 pages, 344020 bytes).
+Output written on "Detecção de Posicionamento.pdf" (2 pages, 344490 bytes).
 PDF statistics:
  111 PDF objects out of 1000 (max. 8388607)
  92 compressed objects within 1 object stream

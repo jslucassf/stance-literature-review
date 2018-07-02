@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex Detecção de Posicionamento"] 1530419506 "Detecção de Posicionamento.aux" "Detecção de Posicionamento.bbl" "Detecção de Posicionamento" 1530419511
+["bibtex Detecção de Posicionamento"] 1530502856 "Detecção de Posicionamento.aux" "Detecção de Posicionamento.bbl" "Detecção de Posicionamento" 1530502857
   "/usr/share/texmf-dist/bibtex/bst/acmart/ACM-Reference-Format.bst" 1525020694 83479 53d55cf5e954c8907ec8f61116838886 ""
-  "Detecção de Posicionamento.aux" 1530419511 2224 9c9ea99e5c5ec5be9df1988efaf8b470 ""
+  "Detecção de Posicionamento.aux" 1530502856 2223 799bf52d777b5ea977b041bba5d76d2d ""
   "sample-bibliography.bib" 1529589385 52824 71edc1a7d438e1de0b1079a3f91d9320 ""
   (generated)
   "Detecção de Posicionamento.bbl"
   "Detecção de Posicionamento.blg"
-["pdflatex"] 1530419511 "/home/jslucassf/workspace/mestrado/fpcc1/Revisão de literatura/Detecção de Posicionamento.tex" "Detecção de Posicionamento.pdf" "Detecção de Posicionamento" 1530419511
+["pdflatex"] 1530502856 "/home/jslucassf/workspace/mestrado/fpcc1/Revisão de literatura/Detecção de Posicionamento.tex" "Detecção de Posicionamento.pdf" "Detecção de Posicionamento" 1530502857
   "/home/jslucassf/workspace/mestrado/fpcc1/Revisão de literatura/Detecção de Posicionamento.tex" 1530417565 2045 edae14b7faa5dbcaba40080fb79dc63b ""
   "/usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc" 1525022335 2921 8ca0eb0831f9bc5da080d3697cfe67bf ""
   "/usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1525022335 2933 9ad527ce78d7c5fa0a642dead095f172 ""
@@ -157,13 +157,13 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1525040116 33301 a3134070eacafb10b1f371612ce2650d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1529245842 2714769 6ccc9724b91625c240b3b10e4d38d609 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1529245825 7906416 dcc6c73ab93b7a6a75193103d535d0cb ""
-  "Detecção de Posicionamento.aux" 1530419511 2224 9c9ea99e5c5ec5be9df1988efaf8b470 ""
-  "Detecção de Posicionamento.bbl" 1530419506 1785 8ed37e936ba16de73718c10d329b7108 "bibtex Detecção de Posicionamento"
-  "Detecção de Posicionamento.out" 1530419511 2273 bf2f7fc70c993498511d0401a0aa64ba ""
+  "Detecção de Posicionamento.aux" 1530502856 2223 799bf52d777b5ea977b041bba5d76d2d ""
+  "Detecção de Posicionamento.bbl" 1530502856 1785 8ed37e936ba16de73718c10d329b7108 "bibtex Detecção de Posicionamento"
+  "Detecção de Posicionamento.out" 1530502856 2268 dc9fce8a8394ebc4cbafdbae90a9ad0f ""
   "Detecção de Posicionamento.tex" 1530417565 2045 edae14b7faa5dbcaba40080fb79dc63b ""
-  "corpo.tex" 1530419510 2431 6785858c835914087a237b71d734bf2a ""
+  "corpo.tex" 1530502853 2700 befc68d155b592437f7cebfe9083752a ""
   (generated)
+  "Detecção de Posicionamento.aux"
   "Detecção de Posicionamento.out"
   "Detecção de Posicionamento.pdf"
-  "Detecção de Posicionamento.aux"
   "Detecção de Posicionamento.log"
