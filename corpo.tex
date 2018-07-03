@@ -24,7 +24,7 @@ territórios de pesquisa ainda não explorados.
 \quad Iniciamos com uma visão geral da área da mineração de textos. Explorando
 o estado da arte no processamento de textos, mostramos de uma forma geral,
 como são realizadas as tarefas de processamento de texto. Então falamos um
-pouco mais sobre a aplicação no contexto especialmente das fake news.
+pouco mais sobre a aplicação em alguns contextos, especialmente das fake news.
 Prosseguimos para esclarecer as diferenças entre duas tarefas da análise 
 semântica, a detecção de posicionamento e a detecção de sentimento. Nas
 próximas sessões, exploramos abordagens que usam os textos, regras, e outras
@@ -33,22 +33,124 @@ conversas (quando analisamos textos produzidos em redes sociais).
 
 \section{Mineração de Texto}
 
-- Porquê falar de text mining
+\quad A Mineração de texto é uma área multidisciplinar que envolve recuperação da
+informação, análise de dados, visualização, classificação, aprendizado de máquina
+e etc. Quando tentamos detectar o posicionamento dos autores em um texto, estamos
+implicitamente buscando extrair informações semânticas importantes e não triviais
+e isto é exatamente como podemos definir mineração de texto, o processo de busca
+e extração de informações importantes em texto. Desta forma, se torna muito
+importante entender inicialmente o estado atual do nosso entendimento em técnicas
+e conceitos de mineração de texto, pois os mesmos serão aplicados no contexto do
+nosso problema.
 
-\quad Quando tentamos detectar o posicionamento dos autores em um texto, estamos
-implicitamente buscando extrair informações semânticas importantes e não triviais.
+\quad O processamento de informações armazenadas de forma não estruturada é
+essencial para negócios em geral. Alguns estudos [Referência] já demonstraram que
+cerca de 80\% de todas as informações potencialmente úteis para negócios está
+armazenada em formato não estruturado. Como texto sempre foi a forma mais natural
+de transmissão e armazenamento de conhecimento humano, a maior parte destes dados
+não estruturados está em formato textual, portanto o desenvolvimento de técnicas
+de processamento de texto possui um enorme potencial de geração de valor, tanto
+para empresas quanto para usuários finais das novas tecnologias que poderão ser
+desenvolvidas.
 
-- O que é text mining
-- Framework conceitual
-- Problemas em aberto
+\subsection{Um Framework Conceitual}
+
+[Referência] apresenta um framework conceitual para tarefas de mineração de texto
+que consiste em dois componentes:
+\begin{enumerate}
+    \item \emph{Refinamento de texto}
+    \item \emph{Destilação de conhecimento}
+\end{enumerate}
+
+\quad A etapa de \textbf{refinamento de texto}, consiste em uma etapa inicial, onde ocorre a
+transformação dos documentos de texto em um tipo de representação intermediária de
+mais fácil processamento, alguns exemplos são organizações relacionais dos
+documentos, grafos de conceitos ou até contagem de palavras. O formato de
+representação intermediária pode ser baseado em documentos, onde cada entidade nos
+dados representa um documento ou em conceitos, onde cada entidade representa um
+conceito ou objeto de interesse no estudo.
+
+\quad Já na etapa de \textbf{destilação de conhecimento}, a representação 
+intermediária dos documentos, produzida na fase anterior, é finalmente processada,
+possibilitando a dedução dos padrões e informações desejadas. Nesta etapa, várias
+técnicas de processamento são utilizadas, como visualização de documentos, análise
+de texto.
+
+\quad A ideia principal na abordagem baseada em visualização, é o agrupamento de
+documentos com base em suas similaridades e apresentar os grupos definidos fazendo
+uso de algum tipo de representação gráfica. A interpretação da semântica dos grupos
+ainda é uma tarefa a ser realizada por humanos.
+
+\quad Análise de texto é na verdade apenas um termo genérico que engloba muitas
+abordagens diferentes. Processamento de Linguagem Natural (NLP), Sumarização,
+extração de informação e etc. Aqui destacamos o crescente uso de técnicas de
+aprendizado de máquina, que vem se popularizando na pesquisa atual, devido ao
+avanço no poder de processamento dos computadores atuais.
+
+\subsection{Problemas em Aberto}
+
+\quad Apesar dos avanços nos últimos anos, ainda enfrentamos alguns desafios na área.
+O concebimento de um formato intermediário eficiente para o processamento, o
+desenvolvimento de técnicas e algoritmos capazes de produzirem soluções mais
+independentes da linguagem e a exploração de formas de fazer uso de informações
+relativas ao domínio específico dos problemas, são exemplos de aspectos que
+necessitam de novas contribuições para no futuro.
 
 \section{Fake News e aplicações}
 
+\quad Sem dúvidas, a maior aplicação das técnicas de detecção de posicionamento
+atualmente está na verificação das chamadas \textit{Fake News}. As notícias falsas
+tem causado muitas preocupações, principalmente em cenários eleitorais onde elas
+são suspeitas até mesmo de influenciar o resultado de campanhas presidenciais.
+\footnote{https://www.washingtonpost.com/news/the-fix/wp/2018/04/03/a-new-study-suggests-fake-news-might-have-won-donald-trump-the-2016-election/}
+
+\quad Desta forma, existe o interesse em identificar a veracidade de notícias
+veiculadas na internet, mas como uma quantidade muito grande de informações circulam
+a cada dia, a automatização deste processo é desejada.
+
+\quad Vários estudos [Referência] sugerem que detectar o posicionamento dos autores
+das notícias e de outros portais pode ser um primeiro passo essencial para verificar
+a veracidade das mesmas. Profissionais da academia e várias empresas ao redor do
+mundo realizam o \textit{Fake News Challenge
+\footnote{http://www.fakenewschallenge.org/}}, um desafio que objetiva abordar este
+problema, e também sugere a detecção de posicionamento como primeiro passo para a
+verificação de veracidade de notícias.
+
+\quad Entretanto as aplicações podem ser ainda maiores. Alguns trabalhos [Referência]
+já fizeram uso de estruturas similares para realizar não só a verificação das notícias
+oficialmente publicadas, mas também para boatos que circulam as redes sociais.
+
 \section{Detecção de Posicionamento x Detecção de Sentimento}
+
+\quad A detecção de sentimento em texto, é um campo com vários trabalhos publicados,
+porém é importante ressaltar que como citado por [Referência], detecção de
+posicionamento é uma tarefa relacionada mas diferente da análise de sentimento.
+Em tarefas de análise de sentimento, buscamos determinar se um texto é positivo,
+negativo ou neutro. Geralmente extraímos também o alvo daquela opinião. Entretanto
+para detecção de posicionamento, buscamos identificar a concordância com um assunto
+pré-estabelecido. O assunto alvo da opinião pode não ser mencionado no texto, ou até
+não ser o sujeito do texto.
+
+\quad Estas são tarefas distintas porém são relacionadas. Em [Referência] por exemplo,
+regras de sentimento são utilizadas para auxiliar na detecção de posicionamento. Uma
+pergunta permanece em aberto entretanto, qual o nível de correlação entre as
+duas tarefas?
 
 \section{Abordagens baseadas apenas no texto}
 
+\quad Durante a primeira etapa no framework que foi citado, tomamos decisões sobre o
+formato dos dados que serão processados, ou seja, decidimos sobre a representação
+intermediária. Uma decisão que pode ser feita, é se usaremos apenas os dados
+textuais dos documentos ou se faremos uso de outros tipos de informação que sejam
+releventes. Em [Referência], os autores realizam a classificação de \textit{tweets}
+realizando o processamento apenas no conteúdo textual dos mesmos. A abordagem faz uso
+de diferentes classes de n-gramas como representação intermediária e gera modelos
+preditivos utilizando um algoritmo de classificação (SVM).
+
 \section{Regras de Classificação}
+
+\quad O trabalho citado anteriormente [Referência] também faz uso de regras de
+classificação.  
 
 \section{Utilizando Outras informações Relevantes}
 

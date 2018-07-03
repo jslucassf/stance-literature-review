@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.6.17)  2 JUL 2018 00:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.6.17)  3 JUL 2018 02:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1148,35 +1148,86 @@ Package Fancyhdr Warning: \headheight is too small (13.0pt):
 
 [1.1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-])
-(./Detec√ß√£o de Posicionamento.bbl
+]
+Overfull \hbox (1.48686pt too wide) in paragraph at lines 46--55
+[] \T1/LinuxLibertineT-TLF/m/n/12 (-20) O pro-ces-sa-mento de in-for-maÁıes ar-
+mazenadas
+ []
+
+
+Overfull \hbox (6.04506pt too wide) in paragraph at lines 46--55
+\T1/LinuxLibertineT-TLF/m/n/12 (-20) po-ten-cial-mente ˙teis para negÛ-cios est
+· ar-mazenada
+ []
+
+
+Overfull \hbox (14.31294pt too wide) in paragraph at lines 65--72
+\T1/LinuxLibertineT-TLF/m/n/12 (-20) de palavras. O for-mato de rep-re-sen-taÁ„
+o in-ter-medi·ria
+ []
+
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 84.
+[2.2]
+Overfull \hbox (1.16765pt too wide) in paragraph at lines 84--89
+\T1/LinuxLibertineT-TLF/m/n/12 (-20) Pro-ces-sa-mento de Lin-guagem Nat-u-ral (
+NLP), Suma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+[][][]\T1/LinuxLibertineT-TLF/m/n/10 (+20) https://www.washingtonpost.com/news/
+the-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) fix/wp/2018/04/03/a-new-study-suggests-fak
+e-news-
+ []
+
+
+Overfull \hbox (14.97707pt too wide) in paragraph at lines 119--122
+[] \T1/LinuxLibertineT-TLF/m/n/12 (-20) En-tre-tanto as apli-caÁıes po-dem ser 
+ainda maiores.
+ []
+
+
+Overfull \hbox (9.08823pt too wide) in paragraph at lines 125--133
+\T1/LinuxLibertineT-TLF/m/n/12 (-20) de-tecÁ„o de posi-ciona-mento È uma tarefa
+ rela-cionada
+ []
+
+
+Overfull \hbox (13.9506pt too wide) in paragraph at lines 134--138
+[] \T1/LinuxLibertineT-TLF/m/n/12 (-20) Es-tas s„o tare-fas dis-tin-tas porÈm s
+„o rela-cionadas.
+ []
+
+[3.3]) (./Detec√ß√£o de Posicionamento.bbl
 
 Package natbib Warning: Empty `thebibliography' environment on input line 40.
 
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
+) [4.4
 
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 60.
- [2.2]
+]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 60.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 60.
-
-(./Detec√ß√£o de Posicionamento.aux)
+ (./Detec√ß√£o de Posicionamento.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 60.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 60.
 Package rerunfilecheck Info: File `"Detec√ß√£o de Posicionamento".out' has not 
 changed.
-(rerunfilecheck)             Checksum: DC9FCE8A8394EBC4CBAFDBAE90A9AD0F;2268.
+(rerunfilecheck)             Checksum: 0B977BEDCA9EF2FFED4B78CA8C547B3F;2652.
  ) 
 Here is how much of TeX's memory you used:
- 17977 strings out of 492649
- 269242 string characters out of 6135778
- 383771 words of memory out of 5000000
- 21180 multiletter control sequences out of 15000+600000
- 176285 words of font info for 261 fonts, out of 8000000 for 9000
+ 18043 strings out of 492649
+ 270737 string characters out of 6135778
+ 384774 words of memory out of 5000000
+ 21182 multiletter control sequences out of 15000+600000
+ 181769 words of font info for 299 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 60i,11n,94p,885b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,12n,94p,885b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/share/
 texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/share/texmf-dist/fon
 ts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/share/texmf-dist/fonts/enc/dvips/l
@@ -1186,10 +1237,10 @@ ibertine/lbtn_76gpa5.enc}{/usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_
 are/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texmf
 -dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/share/texmf-dist/fo
 nts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on "Detec√ß√£o de Posicionamento.pdf" (2 pages, 344490 bytes).
+Output written on "Detec√ß√£o de Posicionamento.pdf" (4 pages, 358659 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 92 compressed objects within 1 object stream
- 16 named destinations out of 1000 (max. 500000)
- 51821 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 135 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
+ 24 named destinations out of 1000 (max. 500000)
+ 51837 words of extra memory for PDF output out of 61914 (max. 10000000)
 
