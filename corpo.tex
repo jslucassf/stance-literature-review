@@ -150,12 +150,42 @@ preditivos utilizando um algoritmo de classificação (SVM).
 \section{Regras de Classificação}
 
 \quad O trabalho citado anteriormente [Referência] também faz uso de regras de
-classificação.  
+sentimento em uma primeira etapa do processo de classificação. Regras de
+sentimento. Estas, fazem uso da presença de alguns tipos de n-gramas no texto que
+podem ser indicativos do sentimento do autor para com os alvos da opinião.
+Os n-gramas alvo, são aqueles usados para representar direta ou indiretamente os
+alvos da questão. Por exemplo, nomes próprios. Os n-gramas chave, são os que servem
+para deixar explícito a opinião do autor. Por exemplo \textit{hashtags} ou termos
+como "readyforhillary". 
+
+\quad Cada n-grama é então separado em dois tipos, favoráveis e contrários em relação
+ao alvo principal. Desta forma, criam-se pares ngrama-tipo, que compõem as regras de
+sentimento utilizadas para classificar os tweets. As regras são no formato:
+
+\begin{itemize}
+    \item Presença de n-grama chave favorável e ausência de n-grama chave contrário
+    implica em posicionamento Favorável
+    \item Presença de n-grama chave contrário e ausência de n-grama chave favorável
+    implica em posicionamento Contrário 
+\end{itemize}
+
+\quad O conjunto das regras geradas, são então utilizadas para classificar o
+posicionamento dos tweets.
+
+\quad Este é um processo semi automático pois necessita de supervisão humana para a
+anotação dos n-gramas, e no trabalho citado é utilizado como um primeiro passo para
+rotulação um conjunto de dados que será útil para treinar um modelo preditivo.
+
+\quad Ainda sobre análise de sentimento, esta abordagem se apoia na suposição de
+que o posicionamento pode ser expresso na forma de sentimentos positivos ou
+negativos em relação aos alvos do texto.
 
 \section{Utilizando Outras informações Relevantes}
 
 \subsection{Informações temporais}
 
 \subsection{Estrutura das Conversas em Redes Sociais}
+
+\section{Categorias}
 
 \section{Conclusões}
