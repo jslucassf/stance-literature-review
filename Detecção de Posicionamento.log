@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.6.17)  3 JUL 2018 02:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.6.17)  4 JUL 2018 01:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/home/jslucassf/workspace/mestrado/fpcc1/Revisão de literatura/Detecção d
-e Posicionamento.tex"
+**"/home/jslucassf/workspace/mestrado/fpcc1/stance-literature-review/Detecção
+ de Posicionamento.tex"
 
-(/home/jslucassf/workspace/mestrado/fpcc1/Revisão de literatura/Detecção de 
-Posicionamento.tex
+(/home/jslucassf/workspace/mestrado/fpcc1/stance-literature-review/Detecção d
+e Posicionamento.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/acmart/acmart.cls
@@ -827,108 +827,113 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \@lastruleclass=\count132
 \@thisrulewidth=\dimen155
 )
+(/usr/share/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
 \c@theorem=\count133
-
-Excluding comment 'screenonly' Include comment 'printonly'
-Include comment 'anonsuppress' (./Detecção de Posicionamento.aux)
+ Excluding comment 'screenonly'
+Include comment 'printonly' Include comment 'anonsuppress'
+(./Detecção de Posicionamento.aux)
 \openout1 = `"Detecção de Posicionamento.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 15.
-LaTeX Font Info:    Try loading font information for OML+nxlmi on input line 15
+LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 16.
+LaTeX Font Info:    Try loading font information for OML+nxlmi on input line 16
 .
 
 (/usr/share/texmf-dist/tex/latex/newtx/omlnxlmi.fd
 File: omlnxlmi.fd 2013/11/19 Fontinst v1.933 font definitions for OML/nxlmi.
 )
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 15.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 15.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 16.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 16.
 
 
 (/usr/share/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 15.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 16.
 
 (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 15.
-LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 15
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 16.
+LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 16
 .
 
 (/usr/share/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 16.
 LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 1
-5.
+6.
 
 (/usr/share/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 15.
+(Font)              scaled to size 10.0pt on input line 16.
 LaTeX Font Info:    Try loading font information for OT1+LinuxLibertineT-TLF on
- input line 15.
+ input line 16.
 
 (/usr/share/texmf-dist/tex/latex/libertine/OT1LinuxLibertineT-TLF.fd
 File: OT1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for OT1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 15.
+(Font)              scaled to size 10.0pt on input line 16.
 <<ot1.cmap>>
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 15.
+(Font)              scaled to size 7.3pt on input line 16.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 15.
+(Font)              scaled to size 5.5pt on input line 16.
 <<oml.cmap>>
-LaTeX Font Info:    Try loading font information for U+msa on input line 15.
+LaTeX Font Info:    Try loading font information for U+msa on input line 16.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 15.
+LaTeX Font Info:    Try loading font information for U+msb on input line 16.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 15.
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 16.
 
 
 (/usr/share/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2016/01/31 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 15.
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 16.
 
 
 (/usr/share/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 15.
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 16.
 
 
 (/usr/share/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
-LaTeX Info: Redefining \microtypecontext on input line 15.
+LaTeX Info: Redefining \microtypecontext on input line 16.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -945,7 +950,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box34
-Package hyperref Info: Link coloring OFF on input line 15.
+Package hyperref Info: Link coloring OFF on input line 16.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -955,11 +960,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count134
 )
-LaTeX Info: Redefining \ref on input line 15.
-LaTeX Info: Redefining \pageref on input line 15.
-LaTeX Info: Redefining \nameref on input line 15.
-
-(./Detecção de Posicionamento.out) (./Detecção de Posicionamento.out)
+LaTeX Info: Redefining \ref on input line 16.
+LaTeX Info: Redefining \pageref on input line 16.
+LaTeX Info: Redefining \nameref on input line 16.
 \@outlinefile=\write5
 \openout5 = `"Detecção de Posicionamento.out"'.
 
@@ -1106,13 +1109,16 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 54.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 10.95pt on input line 54.
+
+
+LaTeX Warning: Reference `TotPages' on page 1 undefined on input line 54.
+
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 54.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 54.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 6.1pt on input line 54.
-
 
 Package hyperref Warning: Option `pdflang' has already been used,
 (hyperref)                setting the option has no effect on input line 54.
@@ -1124,6 +1130,18 @@ Package hyperref Warning: Option `pdfdisplaydoctitle' has already been used,
 (./corpo.tex
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 12.0pt on input line 10.
+
+Runaway argument?
+]{mrowcastance}. 
+./corpo.tex:11: Paragraph ended before \@citex was complete.
+<to be read again> 
+                   \par 
+l.11 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 16.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
@@ -1204,11 +1222,18 @@ Overfull \hbox (13.9506pt too wide) in paragraph at lines 134--138
 �o rela-cionadas.
  []
 
-[3.3]) (./Detecção de Posicionamento.bbl
+[3.3]
+Overfull \hbox (2.66762pt too wide) in paragraph at lines 172--174
+\T1/LinuxLibertineT-TLF/m/n/12 (-20) lizadas para clas-si-ficar o posi-ciona-me
+nto dos tweets. 
+ []
 
-Package natbib Warning: Empty `thebibliography' environment on input line 40.
 
-) [4.4
+Underfull \vbox (badness 2326) has occurred while \output is active []
+
+ [4.4])
+No file "Detecção de Posicionamento".bbl.
+[5.5
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 60.
@@ -1216,18 +1241,32 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 60.
  (./Detecção de Posicionamento.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 60.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 60.
-Package rerunfilecheck Info: File `"Detecção de Posicionamento".out' has not 
-changed.
-(rerunfilecheck)             Checksum: 0B977BEDCA9EF2FFED4B78CA8C547B3F;2652.
+
+
+Package rerunfilecheck Warning: File `"Detecção de Posicionamento".out' has c
+hanged.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `"Detecção de Posicionamento".out'
+:
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  3B12B5030888ECB674AD5A6D4C5A0AC1;2562.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 18043 strings out of 492649
- 270737 string characters out of 6135778
- 384774 words of memory out of 5000000
- 21182 multiletter control sequences out of 15000+600000
- 181769 words of font info for 299 fonts, out of 8000000 for 9000
+ 18091 strings out of 492649
+ 271302 string characters out of 6135778
+ 385428 words of memory out of 5000000
+ 21230 multiletter control sequences out of 15000+600000
+ 182516 words of font info for 302 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 60i,12n,94p,885b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,12n,94p,887b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/share/
 texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/share/texmf-dist/fon
 ts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/share/texmf-dist/fonts/enc/dvips/l
@@ -1236,11 +1275,12 @@ ibertine/lbtn_76gpa5.enc}{/usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_
 ></usr/share/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/sh
 are/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texmf
 -dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/share/texmf-dist/fo
-nts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on "Detecção de Posicionamento.pdf" (4 pages, 358659 bytes).
+nts/type1/public/libertine/LinLibertineTI.pfb></usr/share/texmf-dist/fonts/type
+1/public/newtx/txsys.pfb>
+Output written on "Detecção de Posicionamento.pdf" (5 pages, 371121 bytes).
 PDF statistics:
- 135 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
+ 98 PDF objects out of 1000 (max. 8388607)
+ 74 compressed objects within 1 object stream
  24 named destinations out of 1000 (max. 500000)
- 51837 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 51725 words of extra memory for PDF output out of 61914 (max. 10000000)
 

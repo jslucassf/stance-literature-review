@@ -7,7 +7,7 @@ posicionamento da sociedade em relação aos temas mais importantes.
 \quad Além disto, entender o posicionamento das pessoas pode ter
 várias outras aplicações, como desenvolvimento de aplicações específicas,
 e mais recentemente ajudar na detecção de notícias falsas, as 
-\emph{fake news} [Referência].
+\emph{fake news} \cite{mrowcastance}.
 
 \quad Em reconhecimento da importância deste problema, vários trabalhos
 utilizando diversas técnicas para detecção automática de posicionamento
@@ -180,12 +180,38 @@ rotulação um conjunto de dados que será útil para treinar um modelo preditiv
 que o posicionamento pode ser expresso na forma de sentimentos positivos ou
 negativos em relação aos alvos do texto.
 
-\section{Utilizando Outras informações Relevantes}
+\section{Utilizando Outras Informações Contextuais}
 
-\subsection{Informações temporais}
+\quad Outros trabalhos abordam o problema de detecção de posicionamento
+fazendo uso de outras informações além dos textos sendo analisados. [Referência]
+se aproveita da estrutura das conversas em redes sociais enquanto [Referência]
+considera informações temporais das postagens no Twitter.
 
 \subsection{Estrutura das Conversas em Redes Sociais}
 
-\section{Categorias}
+\quad As redes sociais possibilitam uma estruturação nas conversas, 
+que segundo [Referência], pode influenciar o poder de classificação de nossos
+métodos. A intuição, é que após um rumor ser compartilhado, as postagens resposta ao
+texto original podem auxiliar a verificação da informação pois seus
+posicionamentos podem representar contra argumentações ou apoios à ideia
+inicial. Outro trabalho que também faz uso de informações relacionadas a
+estrutura das conversas, é [Referência]. Nele os autores ainda chamam
+atenção sobre o fato de que as abordagens baseadas em regras, que foram
+citadas anteriormente, possuam a falha de não poderem ser generalizáveis
+para diferentes contextos.
+
+\subsection{Informações temporais}
+
+\quad Em [Referência] os autores estudam mais uma vez dados de redes sociais
+e levantam a hipótese de que a utilização de dados temporais afeta
+positivamente a precisão dos métodos de detecção. Uma ideia importante é que
+a ocorrência de um tweet influencia a taxa em que futuros tweets serão
+publicados.
 
 \section{Conclusões}
+
+\quad Este artigo buscou analisar a literatura com o objetivo de organizar
+o conhecimento relacionado ao estado da arte na pesquisa de detecção de
+posicionamento em dados textuais, suas aplicações e desafios. Vimos que
+esta é uma tarefa com aplicações especiais na verificação de veracidade em
+notícias e rumores.
